@@ -1,0 +1,11 @@
+├─ controllers
+│  └─ domaineController.js
+├─ middlewares
+│  └─ index.js
+├─ models
+│  └─ domaineModel.js
+├─ services
+│  ├─ domaine.js // ken theb taamelou haja specific
+│  └─ crudcommonServices.js
+├─ db.js
+└─ server.js
